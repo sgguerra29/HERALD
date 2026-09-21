@@ -7,7 +7,7 @@ authors:
     given-names: Aaron
   - family-names: Guerra
     given-names: Sophia
-repository-code: "https://github.com/sophiaguerra/HERALD"
+repository-code: "https://github.com/sgguerra29/HERALD"
 abstract: >-
   HERALD identifies reads that may span a horizontal gene transfer junction by
   fragmenting poorly-aligned reads, realigning the fragments, and reporting

@@ -1,7 +1,7 @@
 ***
 Copyright 2024-2026:
     Aaron Saporito: https://github.com/aasaporito/
-    Sophia Guerra: https://github.com/sophiaguerra/
+    Sophia Guerra: https://github.com/sgguerra29/
 ***
 
 This Source Code Form is subject to the terms of the Mozilla Public
