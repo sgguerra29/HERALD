@@ -1,0 +1,21 @@
+arm	run	sample	is_negative	total_reads	reads_flagged	true_positive	misattributed	false_positive	unresolved	precision_pct	fp_per_100k_reads	events_total	events_detected	fp_genomes
+panel	results.primary.panel	pair4_genus_large_rep5	no	9956	167	167	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair4_genus_large_rep4	no	9956	190	190	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair4_genus_large_rep3	no	9956	173	173	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair4_genus_large_rep2	no	9956	178	178	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair4_genus_large_rep1	no	9956	166	166	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair3_genus_small_rep5	no	13407	185	185	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair3_genus_small_rep4	no	13407	154	154	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair3_genus_small_rep3	no	13407	177	177	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair3_genus_small_rep2	no	13407	161	161	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair3_genus_small_rep1	no	13407	168	168	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair2_family_rep5	no	11431	168	168	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair2_family_rep4	no	11431	178	178	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair2_family_rep3	no	11431	204	204	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair2_family_rep2	no	11431	180	180	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair2_family_rep1	no	11431	169	169	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair1_phylum_rep6	no	8300	179	179	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair1_phylum_rep5	no	8300	158	158	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair1_phylum_rep4	no	8300	178	178	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair1_phylum_rep3	no	8300	167	167	0	0	0	100.0	0.0	5	4	
+panel	results.primary.panel	pair1_phylum_rep2	no	8300	182	182	0	0	0	100.0	0.0	5	4	

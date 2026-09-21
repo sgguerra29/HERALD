@@ -1,0 +1,16 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# Generated intermediates and results
+tmp/*
+!tmp/.gitkeep
+Output/*
+!Output/.gitkeep
+
+# Environments / editors
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
