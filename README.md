@@ -14,9 +14,9 @@
   <p align="center">
     Fragment-based detection of candidate horizontal gene transfer events in aligned sequencing reads
     <br />
-    <a href="https://github.com/sophiaguerra/HERALD/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/sgguerra29/HERALD/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/sophiaguerra/HERALD/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/sgguerra29/HERALD/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -85,7 +85,7 @@ to run HERALD. Neither is imported by anything in `src/`.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/sophiaguerra/HERALD.git
+   git clone https://github.com/sgguerra29/HERALD.git
    ```
 2. Install dependencies
    ```sh
@@ -199,12 +199,12 @@ more information.
 ## Contact
 
 ##### Maintainer:
-Sophia Guerra - [GitHub](https://github.com/sophiaguerra)
+Sophia Guerra - [GitHub](https://github.com/sgguerra29)
 
 ##### Original author:
 Aaron Saporito - [LinkedIn](https://www.linkedin.com/in/aaron-saporito) - [GitHub](https://github.com/aasaporito)
 
-Project Link: [https://github.com/sophiaguerra/HERALD](https://github.com/sophiaguerra/HERALD)
+Project Link: [https://github.com/sgguerra29/HERALD](https://github.com/sgguerra29/HERALD)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,15 +214,15 @@ Project Link: [https://github.com/sophiaguerra/HERALD](https://github.com/sophia
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/sophiaguerra/HERALD.svg?style=for-the-badge
-[contributors-url]: https://github.com/sophiaguerra/HERALD/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sophiaguerra/HERALD.svg?style=for-the-badge
-[forks-url]: https://github.com/sophiaguerra/HERALD/network/members
-[stars-shield]: https://img.shields.io/github/stars/sophiaguerra/HERALD.svg?style=for-the-badge
-[stars-url]: https://github.com/sophiaguerra/HERALD/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sophiaguerra/HERALD.svg?style=for-the-badge
-[issues-url]: https://github.com/sophiaguerra/HERALD/issues
+[contributors-shield]: https://img.shields.io/github/contributors/sgguerra29/HERALD.svg?style=for-the-badge
+[contributors-url]: https://github.com/sgguerra29/HERALD/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sgguerra29/HERALD.svg?style=for-the-badge
+[forks-url]: https://github.com/sgguerra29/HERALD/network/members
+[stars-shield]: https://img.shields.io/github/stars/sgguerra29/HERALD.svg?style=for-the-badge
+[stars-url]: https://github.com/sgguerra29/HERALD/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sgguerra29/HERALD.svg?style=for-the-badge
+[issues-url]: https://github.com/sgguerra29/HERALD/issues
 [license-shield]: https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg?style=for-the-badge
-[license-url]: https://github.com/sophiaguerra/HERALD/blob/master/LICENSE.txt
+[license-url]: https://github.com/sgguerra29/HERALD/blob/master/LICENSE.txt
 [Python-url]: https://python.org
 [python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
